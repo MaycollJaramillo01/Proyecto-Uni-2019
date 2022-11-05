@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: proyectouniversidad
+Bundle-SymbolicName: proyectouniversidad
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: proyectouniversidad
+Export-Package: proyecto,
+ proyecto.controller,
+ proyecto.exception,
+ proyecto.model,
+ proyecto.repository,
+ proyecto.service,
+ proyecto.service.impl
